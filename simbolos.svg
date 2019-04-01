@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="127.95253"
-     inkscape:cy="25.630963"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="229.23575"
+     inkscape:cy="111.77199"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +39,9 @@
      inkscape:window-height="1032"
      inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata1551">
     <rdf:RDF>
@@ -48,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,7 +60,7 @@
      id="layer1"
      transform="translate(-50.295049,-105.62142)">
     <g
-       transform="matrix(0.3527769,0,0,0.3527769,-1218.9175,-654.72131)"
+       transform="matrix(0.3527769,0,0,0.3527769,-1219.4788,-654.76808)"
        style="display:inline"
        id="g4379-5">
       <circle
@@ -153,5 +155,55 @@
        cx="75.165886"
        cy="133.28027"
        r="1.0637308" />
+    <circle
+       style="display:inline;fill:#f8f4c5;fill-opacity:1;stroke:#000000;stroke-width:0.33496249;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4983-3-3"
+       cx="76.300377"
+       cy="140.21538"
+       r="2.3901136" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.05833328px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="79.434105"
+       y="140.87019"
+       id="text1113"><tspan
+         sodipodi:role="line"
+         id="tspan1111"
+         x="79.434105"
+         y="140.87019"
+         style="font-size:0.88194442px;stroke-width:0.26458332">Final de doble via ancha</tspan></text>
+    <g
+       style="display:inline"
+       transform="matrix(0.33072916,0,0,0.33072916,-1090.4961,-372.56197)"
+       id="g5516-8-6-4">
+      <circle
+         transform="matrix(0.66154144,0,0,0.66154144,2744.4058,735.13353)"
+         id="path2996-1-4-60-6-4"
+         style="fill:#fbf5c5;fill-opacity:1;stroke:#000000;stroke-width:1.05813479;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cx="1122.8572"
+         cy="1118.2858"
+         r="7.8571429" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.24027205;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3766-7-4-2-1-7"
+         transform="matrix(0.44773159,0,0,0.44773159,2984.4837,974.23404)"
+         cx="1122.8572"
+         cy="1118.2858"
+         r="7.8571429" />
+    </g>
+    <rect
+       style="display:inline;fill:#05ffff;fill-opacity:1;stroke:#000005;stroke-width:0.33522707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2494-3"
+       width="3.7651598"
+       height="1.1576111"
+       x="74.885521"
+       y="111.93843" />
+    <rect
+       style="display:inline;fill:#05ffff;fill-opacity:1;stroke:#000005;stroke-width:0.33522707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2494-3-3"
+       width="2.1287649"
+       height="0.77681857"
+       x="75.206688"
+       y="109.97849" />
   </g>
 </svg>
