@@ -1,0 +1,153 @@
+Mediterraneo Georgia Normal 75pt
+Provincia Bodoni MT Normal 15 -1 entre letras
+Enlace Accidental Presidency Normal 10.5pt 0,75 entre lineas
+Estacion Gill Sans MT Condensed
+Portugal Georgia Bold 52.5
+Numeros Cuadro Accidental Presidency normal 54.75
+Isla Lucida Sans Normal 17.3
+
+LAGOS
+Mexiloheira Grande
+Alvor
+PORTIMÃO
+
+Ferragudo
+Estômbar
+Silves
+Poço Barreto
+Alcantarilha
+Algoz
+TUNES
+Albufeira
+Boliqueime
+Loulé
+Almancil
+FARO
+Olhão
+Fuseta
+Livramento
+Luz
+Tavira
+Conceição
+Cacela
+Castro Marim
+Monte Gordo
+Vila Real de Santo António
+
+Messines
+São Marcos
+Pereiras
+Sabóia
+Odemira
+Amoreiras
+Garvão
+Funcheira
+Montenegro
+Torre Vã
+Alvalade
+ERMIDAS
+Lousal
+Azinheira dos Barros
+Canal Caveira
+Grândola
+Alcácer do Sal
+Monte Novo - Palma
+Pinheiro
+Águas de Moura
+Mourisca - Sado
+Setúbal
+Palmela
+PINHAL NOVO
+Sarilhos
+MONTIJO
+
+SINES
+Ortiga
+Santiago do Cacém
+São Bartolomeu da Serra
+Abela
+
+BARREIRO
+
+SEIXAL
+Azinheira
+Terrapleno
+LAVRADIO
+--------
+Valdera
+Poceirão
+Fonte
+Pegões
+Bombel
+VENDAS NOVAS
+Cabrela
+TORRE DA GADANHA
+->
+Paião
+MONTEMOR-O-NOVO
+<-
+Escoural
+CASA BRANCA
+Alcáçovas
+Viana
+Vila Nova da Baronia
+Alvito
+Cuba
+São Matias
+BEJA
+->
+Baleizão
+Quintos
+Serpa - Brinches
+Pias
+Machados
+MOURA
+<-
+Represas
+Santa Vitória - Ervidel
+Figueirinha
+ALJUSTREL
+CASTRO VERDE
+Casével
+Ourique
+Panóias
+
+Tojal
+Monte das Flores
+ÉVORA
+->
+Leões
+Louredo
+Senhora da Graça
+Arraiolos
+Vale de Paio
+Pavia
+Cabeção
+MORA
+<-
+->
+Machede
+Montoito
+Caridade
+REGUENGOS DE MONSARAZ
+<-
+Sousa da Sé
+Azaruja
+Vale do Pereiro
+Vimieiro
+Evora - Monte
+Ameixial
+Estremoz
+->
+Silveirona
+Sousel
+Santo Amaro
+Fronteira
+Cabeço de Vide
+Ribeiro de Freixo (APD)
+<-
+Arcos
+Borba
+Vila Viçosa
+
+

@@ -357,6 +357,19 @@
        y2="5350.4829"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-0.26458333,0,0,-0.26458333,5129.465,3177.6666)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13403"
+       x="-4.4923531e-06"
+       width="1.000009"
+       y="-5.1528815e-06"
+       height="1.0000103">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0040558701"
+         id="feGaussianBlur13405" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -365,9 +378,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="1408.7534"
-     inkscape:cy="3287.5748"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1333.9927"
+     inkscape:cy="4914.0541"
      inkscape:document-units="mm"
      inkscape:current-layer="layer10"
      showgrid="false"
@@ -763,13 +776,13 @@
     <image
        sodipodi:absref="/home/aldolo/Proyectos/proyecto-forcano/forcano56.jpg"
        xlink:href="forcano56.jpg"
-       transform="rotate(0.38395017)"
-       width="2786.8562"
-       height="2150.5334"
-       preserveAspectRatio="none"
-       id="image3339"
+       y="-834.91559"
        x="-1174.0984"
-       y="-834.91559" />
+       id="image3339"
+       preserveAspectRatio="none"
+       height="2150.5334"
+       width="2786.8562"
+       transform="rotate(0.38395017)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1451,20 +1464,20 @@
     <image
        sodipodi:absref="/home/aldolo/Proyectos/proyecto-forcano/forcano.jpg"
        xlink:href="forcano.jpg"
-       transform="matrix(0.99999492,0.0031883,3.0234777e-4,0.99999995,0,0)"
-       style="stroke-width:0.39147"
-       width="2707.9934"
-       height="2056.5688"
-       preserveAspectRatio="none"
-       id="image3455"
+       y="19.371508"
        x="16.082182"
-       y="19.371508" />
+       id="image3455"
+       preserveAspectRatio="none"
+       height="2056.5688"
+       width="2707.9934"
+       style="stroke-width:0.39147"
+       transform="matrix(0.99999492,0.0031883,3.0234777e-4,0.99999995,0,0)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Estaciones"
-     style="display:inline">
+     style="display:inline;opacity:1;filter:url(#filter13403)">
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7652"
@@ -5566,14 +5579,6 @@
        transform="rotate(79.022006)" />
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="rect7652-6629"
-       width="2.8881664"
-       height="2.2955689"
-       x="1259.2452"
-       y="-284.00238"
-       transform="rotate(86.964863)" />
-    <rect
-       style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect7652-703"
        width="2.8881664"
        height="2.2955689"
@@ -5585,9 +5590,9 @@
        id="rect7652-723"
        width="2.8881664"
        height="2.2955689"
-       x="1254.6548"
-       y="-335.04489"
-       transform="rotate(88.89256)" />
+       x="1264.924"
+       y="-287.30621"
+       transform="rotate(87.045263)" />
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect7652-517"
@@ -38414,14 +38419,14 @@
     <image
        sodipodi:absref="/home/aldolo/Proyectos/proyecto-forcano/forcano.jpg"
        xlink:href="forcano.jpg"
-       y="19.371508"
-       x="16.082182"
-       id="image28714"
-       preserveAspectRatio="none"
-       height="2056.5688"
-       width="2707.9934"
+       transform="matrix(0.99999492,0.0031883,3.0234777e-4,0.99999995,0,0)"
        style="stroke-width:0.39147"
-       transform="matrix(0.99999492,0.0031883,3.0234777e-4,0.99999995,0,0)" />
+       width="2707.9934"
+       height="2056.5688"
+       preserveAspectRatio="none"
+       id="image28714"
+       x="16.082182"
+       y="19.371508" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -40389,12 +40394,12 @@
     <image
        sodipodi:absref="/home/aldolo/Proyectos/proyecto-forcano/forcano56.jpg"
        xlink:href="forcano56.jpg"
-       y="-834.91559"
-       x="-1174.0984"
-       id="image28334"
-       preserveAspectRatio="none"
-       height="2150.5334"
+       transform="rotate(0.38395017)"
        width="2786.8562"
-       transform="rotate(0.38395017)" />
+       height="2150.5334"
+       preserveAspectRatio="none"
+       id="image28334"
+       x="-1174.0984"
+       y="-834.91559" />
   </g>
 </svg>
