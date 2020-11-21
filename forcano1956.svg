@@ -22,6 +22,30 @@
   <defs
      id="defs2">
     <rect
+       x="548.10693"
+       y="726.64074"
+       width="47.120515"
+       height="16.455513"
+       id="rect13455" />
+    <rect
+       x="491.90594"
+       y="562.70555"
+       width="34.941116"
+       height="13.948086"
+       id="rect13447" />
+    <rect
+       x="558.18473"
+       y="586.9191"
+       width="58.617241"
+       height="25.81786"
+       id="rect13437" />
+    <rect
+       x="684.14485"
+       y="603.22958"
+       width="42.239652"
+       height="13.31254"
+       id="rect13429" />
+    <rect
        x="1363.8126"
        y="138.53375"
        width="232.55508"
@@ -378,9 +402,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1333.9927"
-     inkscape:cy="4914.0541"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1913.546"
+     inkscape:cy="2538.7912"
      inkscape:document-units="mm"
      inkscape:current-layer="layer10"
      showgrid="false"
@@ -16269,6 +16293,63 @@
        height="2.2955689"
        x="1801.9036"
        y="1025.5013" />
+    <path
+       style="fill:#ffef01;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 530.09405,1128.9178 c 18.01635,-11.3385 18.01635,-11.3385 18.01635,-11.3385 l 6.66719,10.2761 -19.45352,6.6284 z"
+       id="path13415" />
+    <path
+       style="fill:none;stroke:#ec0d00;stroke-width:1.32291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 670.62897,590.02866 41.1268,55.40502"
+       id="path13417" />
+    <path
+       style="fill:none;stroke:#da0000;stroke-width:1.32291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 695.31147,547.68532 11.79425,-34.57014"
+       id="path13423" />
+    <path
+       style="fill:none;stroke:#e80000;stroke-width:1.32291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 609.64587,614.81398 101.23059,29.92977"
+       id="path13425" />
+    <text
+       xml:space="preserve"
+       id="text13427"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13429);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         x="684.14453"
+         y="612.59421"><tspan>Chacim</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#e50000;stroke-width:1.32291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 538.84165,603.8406 67.91061,9.01827"
+       id="path13433" />
+    <text
+       xml:space="preserve"
+       id="text13435"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13437);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-4.7277572,8.3476214)"><tspan
+         x="558.18555"
+         y="596.28366"><tspan>Valpaços</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#e60000;stroke-width:1.32291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 571.46599,554.27054 59.54864,-56.17223"
+       id="path13441" />
+    <path
+       style="fill:none;stroke:#d70000;stroke-width:1.32291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 475.08017,627.95149 57.93713,-57.56891 26.49093,0.66558"
+       id="path13443" />
+    <text
+       xml:space="preserve"
+       id="text13445"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13447);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         x="491.90625"
+         y="572.06882"><tspan>Cavez</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#f00000;stroke-width:1.32291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 510.51301,684.53097 106.90558,80.83272"
+       id="path13451" />
+    <text
+       xml:space="preserve"
+       id="text13453"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13455);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         x="548.10742"
+         y="736.00436"><tspan>Lamego</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
