@@ -800,13 +800,13 @@
     <image
        sodipodi:absref="/home/aldolo/Proyectos/proyecto-forcano/forcano56.jpg"
        xlink:href="forcano56.jpg"
-       transform="rotate(0.38395017)"
-       width="2786.8562"
-       height="2150.5334"
-       preserveAspectRatio="none"
-       id="image3339"
+       y="-834.91559"
        x="-1174.0984"
-       y="-834.91559" />
+       id="image3339"
+       preserveAspectRatio="none"
+       height="2150.5334"
+       width="2786.8562"
+       transform="rotate(0.38395017)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1488,20 +1488,21 @@
     <image
        sodipodi:absref="/home/aldolo/Proyectos/proyecto-forcano/forcano.jpg"
        xlink:href="forcano.jpg"
-       transform="matrix(0.99999492,0.0031883,3.0234777e-4,0.99999995,0,0)"
-       style="stroke-width:0.39147"
-       width="2707.9934"
-       height="2056.5688"
-       preserveAspectRatio="none"
-       id="image3455"
+       y="19.371508"
        x="16.082182"
-       y="19.371508" />
+       id="image3455"
+       preserveAspectRatio="none"
+       height="2056.5688"
+       width="2707.9934"
+       style="stroke-width:0.39147"
+       transform="matrix(0.99999492,0.0031883,3.0234777e-4,0.99999995,0,0)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Estaciones"
-     style="display:none;opacity:1;filter:url(#filter13403)">
+     style="display:inline;opacity:1;filter:url(#filter13403)"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7652"
@@ -16312,9 +16313,11 @@
     <text
        xml:space="preserve"
        id="text13427"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13429);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13429);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="684.14453"
-         y="612.59421"><tspan>Chacim</tspan></tspan></text>
+         y="612.59424"
+         id="tspan3071"><tspan
+           id="tspan3069">Chacim</tspan></tspan></text>
     <path
        style="fill:none;stroke:#e50000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 538.84165,603.8406 67.91061,9.01827"
@@ -16322,10 +16325,12 @@
     <text
        xml:space="preserve"
        id="text13435"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13437);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13437);fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(-4.7277572,8.3476214)"><tspan
          x="558.18555"
-         y="596.28366"><tspan>Valpaços</tspan></tspan></text>
+         y="596.28363"
+         id="tspan3077"><tspan
+           id="tspan3075">Valpaços</tspan></tspan></text>
     <path
        style="fill:none;stroke:#e60000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 571.46599,554.27054 59.54864,-56.17223"
@@ -16337,9 +16342,11 @@
     <text
        xml:space="preserve"
        id="text13445"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13447);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13447);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="491.90625"
-         y="572.06882"><tspan>Cavez</tspan></tspan></text>
+         y="572.06885"
+         id="tspan3084"><tspan
+           id="tspan3082">Cavez</tspan></tspan></text>
     <path
        style="fill:none;stroke:#f00000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 510.51301,684.53097 106.90558,80.83272"
@@ -16347,9 +16354,11 @@
     <text
        xml:space="preserve"
        id="text13453"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13455);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13455);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="548.10742"
-         y="736.00436"><tspan>Lamego</tspan></tspan></text>
+         y="736.00433"
+         id="tspan3090"><tspan
+           id="tspan3088">Lamego</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -38500,14 +38509,14 @@
     <image
        sodipodi:absref="/home/aldolo/Proyectos/proyecto-forcano/forcano.jpg"
        xlink:href="forcano.jpg"
-       y="19.371508"
-       x="16.082182"
-       id="image28714"
-       preserveAspectRatio="none"
-       height="2056.5688"
-       width="2707.9934"
+       transform="matrix(0.99999492,0.0031883,3.0234777e-4,0.99999995,0,0)"
        style="stroke-width:0.39147"
-       transform="matrix(0.99999492,0.0031883,3.0234777e-4,0.99999995,0,0)" />
+       width="2707.9934"
+       height="2056.5688"
+       preserveAspectRatio="none"
+       id="image28714"
+       x="16.082182"
+       y="19.371508" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -40322,7 +40331,7 @@
     <text
        xml:space="preserve"
        id="text25431"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect25433);fill:#000000;fill-opacity:1;stroke:none;" />
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect25433);fill:#000000;fill-opacity:1;stroke:none" />
     <g
        aria-label="E"
        transform="rotate(-90,167.26382,1512.6378)"
@@ -40415,12 +40424,14 @@
     <text
        xml:space="preserve"
        id="text25918"
-       style="font-style:normal;font-weight:normal;font-size:14.4639px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.0529167px;word-spacing:2.64583px;white-space:pre;shape-inside:url(#rect25920);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:14.4639px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.0529167px;word-spacing:2.64583px;white-space:pre;shape-inside:url(#rect25920);fill:#000000;fill-opacity:1;stroke:none"
        transform="rotate(1.5337395,76.7036,2123.4425)"><tspan
          x="743.875"
-         y="1859.164"><tspan
+         y="1859.1639"
+         id="tspan7101"><tspan
            dx="0 0 0 0 0 0 0 0 -2.6458287 2.6458299 0 -2.6458287 2.6458299"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.4639px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold'">ESTRECHO DE GIBRALTAR</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.4639px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold'"
+           id="tspan7099">ESTRECHO DE GIBRALTAR</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text6848"
@@ -40466,7 +40477,7 @@
        sodipodi:nodetypes="csc" />
   </g>
   <g
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      transform="translate(1137.163,799.80531)"
      id="g28336"
      inkscape:groupmode="layer"
@@ -40475,12 +40486,16 @@
     <image
        sodipodi:absref="/home/aldolo/Proyectos/proyecto-forcano/forcano56.jpg"
        xlink:href="forcano56.jpg"
-       y="-834.91559"
-       x="-1174.0984"
-       id="image28334"
-       preserveAspectRatio="none"
-       height="2150.5334"
+       transform="rotate(0.38395017)"
        width="2786.8562"
-       transform="rotate(0.38395017)" />
+       height="2150.5334"
+       preserveAspectRatio="none"
+       id="image28334"
+       x="-1174.0984"
+       y="-834.91559" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Nombres estaciones" />
 </svg>
