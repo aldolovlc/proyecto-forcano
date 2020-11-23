@@ -420,6 +420,149 @@
          stdDeviation="0.0040558701"
          id="feGaussianBlur13405-8" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13403-07"
+       x="-4.4923531e-06"
+       width="1.0000089"
+       y="-5.1528814e-06"
+       height="1.0000103">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0040558701"
+         id="feGaussianBlur13405-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13403-7"
+       x="-4.4923531e-06"
+       width="1.0000089"
+       y="-5.1528814e-06"
+       height="1.0000103">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0040558701"
+         id="feGaussianBlur13405-79" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13403-078"
+       x="-4.4923531e-06"
+       width="1.0000089"
+       y="-5.1528814e-06"
+       height="1.0000103">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0040558701"
+         id="feGaussianBlur13405-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13403-71"
+       x="-4.4923531e-06"
+       width="1.0000089"
+       y="-5.1528814e-06"
+       height="1.0000103">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0040558701"
+         id="feGaussianBlur13405-4" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13403-1"
+       x="-4.4923531e-06"
+       width="1.0000089"
+       y="-5.1528814e-06"
+       height="1.0000103">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0040558701"
+         id="feGaussianBlur13405-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13403-8"
+       x="-4.4923531e-06"
+       width="1.0000089"
+       y="-5.1528814e-06"
+       height="1.0000103">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0040558701"
+         id="feGaussianBlur13405-87" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13403-01"
+       x="-4.4923531e-06"
+       width="1.0000089"
+       y="-5.1528814e-06"
+       height="1.0000103">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0040558701"
+         id="feGaussianBlur13405-07" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13403-8-5"
+       x="-4.4923531e-06"
+       width="1.0000089"
+       y="-5.1528814e-06"
+       height="1.0000103">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0040558701"
+         id="feGaussianBlur13405-87-8" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13403-8-3"
+       x="-4.4923531e-06"
+       width="1.0000089"
+       y="-5.1528814e-06"
+       height="1.0000103">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0040558701"
+         id="feGaussianBlur13405-87-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13403-8-6"
+       x="-4.4923531e-06"
+       width="1.0000089"
+       y="-5.1528814e-06"
+       height="1.0000103">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0040558701"
+         id="feGaussianBlur13405-87-16" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter13403-01-9"
+       x="-4.4923531e-06"
+       width="1.0000089"
+       y="-5.1528814e-06"
+       height="1.0000103">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0040558701"
+         id="feGaussianBlur13405-07-4" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -428,11 +571,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="6055.2444"
-     inkscape:cy="3883.7921"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1942.6544"
+     inkscape:cy="4443.1037"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer33"
+     inkscape:current-layer="layer20"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -1243,7 +1386,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Fronteras"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1580,28 +1723,12 @@
        transform="rotate(44.89743)" />
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="rect7652-35"
-       width="2.8881664"
-       height="2.2955689"
-       x="176.38608"
-       y="-491.33383"
-       transform="rotate(89.481779)" />
-    <rect
-       style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect7652-62"
        width="2.8881664"
        height="2.2955689"
        x="287.24051"
        y="452.93509"
        transform="rotate(-38.356488)" />
-    <rect
-       style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="rect7652-9"
-       width="2.8881664"
-       height="2.2955689"
-       x="537.42596"
-       y="-46.743538"
-       transform="rotate(24.877985)" />
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect7652-1"
@@ -1612,28 +1739,12 @@
        transform="rotate(60.699717)" />
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="rect7652-2"
-       width="2.8881664"
-       height="2.2955689"
-       x="323.94379"
-       y="-411.77026"
-       transform="rotate(73.720451)" />
-    <rect
-       style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect7652-70"
        width="2.8881664"
        height="2.2955689"
        x="513.58124"
        y="-53.769482"
        transform="rotate(29.075723)" />
-    <rect
-       style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="rect7652-93"
-       width="2.8881664"
-       height="2.2955689"
-       x="299.6412"
-       y="366.06485"
-       transform="rotate(-26.528439)" />
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect7652-60"
@@ -1650,22 +1761,6 @@
        x="171.68013"
        y="451.1554"
        transform="rotate(-45.040489)" />
-    <rect
-       style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="rect7652-18"
-       width="2.8881664"
-       height="2.2955689"
-       x="26.154272"
-       y="490.26181"
-       transform="rotate(-62.523933)" />
-    <rect
-       style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="rect7652-79"
-       width="2.8881664"
-       height="2.2955689"
-       x="-52.524765"
-       y="497.42316"
-       transform="rotate(-71.630064)" />
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect7652-20"
@@ -1769,14 +1864,6 @@
        x="-48.646072"
        y="540.02234"
        transform="rotate(-69.346433)" />
-    <rect
-       style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="rect7652-361"
-       width="2.8881664"
-       height="2.2955689"
-       x="235.86238"
-       y="-504.58771"
-       transform="rotate(88.856681)" />
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect7652-0"
@@ -5004,9 +5091,9 @@
        id="rect7652-372"
        width="2.8881664"
        height="2.2955689"
-       x="-90.137993"
-       y="1323.9128"
-       transform="rotate(-23.666127)" />
+       x="-10.108534"
+       y="1319.5343"
+       transform="rotate(-20.199928)" />
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect7652-733"
@@ -5039,14 +5126,6 @@
        x="-888.6908"
        y="1068.274"
        transform="rotate(-61.239769)" />
-    <rect
-       style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="rect7652-954"
-       width="2.8881664"
-       height="2.2955689"
-       x="-877.75049"
-       y="1092.519"
-       transform="rotate(-60.667909)" />
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect7652-394"
@@ -5135,13 +5214,6 @@
        x="194.54668"
        y="1440.3978"
        transform="rotate(-10.985528)" />
-    <rect
-       style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="rect7652-791"
-       width="2.8881664"
-       height="2.2955689"
-       x="540.41583"
-       y="1394.0464" />
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect7652-963"
@@ -5272,14 +5344,6 @@
        transform="rotate(59.177369)" />
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="rect7652-2064"
-       width="2.8881664"
-       height="2.2955689"
-       x="1654.3085"
-       y="221.90625"
-       transform="rotate(66.018283)" />
-    <rect
-       style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect7652-336"
        width="2.8881664"
        height="2.2955689"
@@ -5371,8 +5435,8 @@
        id="rect7652-526"
        width="2.8881664"
        height="2.2955689"
-       x="-1301.5168"
-       y="937.49377"
+       x="-1301.5077"
+       y="935.5791"
        transform="rotate(-66.668805)" />
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
@@ -5606,14 +5670,6 @@
        x="1244.724"
        y="-317.67841"
        transform="rotate(92.506234)" />
-    <rect
-       style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="rect7652-9268"
-       width="2.8881664"
-       height="2.2955689"
-       x="-419.978"
-       y="1194.7131"
-       transform="rotate(-32.447613)" />
     <rect
        style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect7652-528"
@@ -16347,58 +16403,9 @@
        d="m 530.09405,1128.9178 c 18.01635,-11.3385 18.01635,-11.3385 18.01635,-11.3385 l 6.66719,10.2761 -19.45352,6.6284 z"
        id="path13415" />
     <path
-       style="fill:none;stroke:#ec0d00;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 670.62897,590.02866 41.1268,55.40502"
-       id="path13417" />
-    <path
-       style="fill:none;stroke:#da0000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 695.31147,547.68532 11.79425,-34.57014"
-       id="path13423" />
-    <path
-       style="fill:none;stroke:#e80000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 609.64587,614.81398 101.23059,29.92977"
-       id="path13425" />
-    <text
-       xml:space="preserve"
-       id="text13427"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13429);fill:#000000;fill-opacity:1;stroke:none;"><tspan
-         x="684.14453"
-         y="612.59421"><tspan>Chacim</tspan></tspan></text>
-    <path
-       style="fill:none;stroke:#e50000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 538.84165,603.8406 67.91061,9.01827"
-       id="path13433" />
-    <text
-       xml:space="preserve"
-       id="text13435"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13437);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(-4.7277572,8.3476214)"><tspan
-         x="558.18555"
-         y="596.28366"><tspan>Valpaços</tspan></tspan></text>
-    <path
        style="fill:none;stroke:#e60000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 571.46599,554.27054 59.54864,-56.17223"
        id="path13441" />
-    <path
-       style="fill:none;stroke:#d70000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 475.08017,627.95149 57.93713,-57.56891 26.49093,0.66558"
-       id="path13443" />
-    <text
-       xml:space="preserve"
-       id="text13445"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13447);fill:#000000;fill-opacity:1;stroke:none;"><tspan
-         x="491.90625"
-         y="572.06882"><tspan>Cavez</tspan></tspan></text>
-    <path
-       style="fill:none;stroke:#f00000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 510.51301,684.53097 106.90558,80.83272"
-       id="path13451" />
-    <text
-       xml:space="preserve"
-       id="text13453"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13455);fill:#000000;fill-opacity:1;stroke:none;"><tspan
-         x="548.10742"
-         y="736.00436"><tspan>Lamego</tspan></tspan></text>
     <circle
        style="display:inline;opacity:1;fill:#000000;stroke-width:0;filter:url(#filter13403);enable-background:new"
        id="path22670"
@@ -16418,6 +16425,109 @@
        d="M 8.7717976,4.4707257e-5 H 10.915954 V 8.6762112 H 8.7917132 L 4.90381e-5,4.3203615 Z"
        sodipodi:nodetypes="cccccc"
        transform="matrix(0.25587339,0.06732867,-0.06732867,0.25587339,707.50549,1053.4426)" />
+    <circle
+       style="display:inline;opacity:1;fill:#000000;stroke-width:0;filter:url(#filter13403-07);enable-background:new"
+       id="path22670-3"
+       cx="4.3389368"
+       cy="4.3389425"
+       r="4.3388977"
+       transform="matrix(0.26458333,0,0,0.26458333,490.64051,171.36936)" />
+    <circle
+       style="display:inline;opacity:1;fill:#000000;stroke-width:0;filter:url(#filter13403-7);enable-background:new"
+       id="path22670-32"
+       cx="4.3389368"
+       cy="4.3389425"
+       r="4.3388977"
+       transform="matrix(0.26458333,0,0,0.26458333,507.41364,184.90441)" />
+    <circle
+       style="display:inline;opacity:1;fill:#000000;stroke-width:0;filter:url(#filter13403-078);enable-background:new"
+       id="path22670-0"
+       cx="4.3389368"
+       cy="4.3389425"
+       r="4.3388977"
+       transform="matrix(0.26458333,0,0,0.26458333,484.36359,196.39294)" />
+    <circle
+       style="display:inline;opacity:1;fill:#000000;stroke-width:0;filter:url(#filter13403-71);enable-background:new"
+       id="path22670-6"
+       cx="4.3389368"
+       cy="4.3389425"
+       r="4.3388977"
+       transform="matrix(0.26458333,0,0,0.26458333,506.53864,225.42538)" />
+    <circle
+       style="display:inline;opacity:1;fill:#000000;stroke-width:0;filter:url(#filter13403-1);enable-background:new"
+       id="path22670-2"
+       cx="4.3389368"
+       cy="4.3389425"
+       transform="matrix(0.26458333,0,0,0.26458333,431.63004,193.06557)"
+       r="4.3388977" />
+    <circle
+       style="display:inline;opacity:1;fill:#000000;stroke-width:0;filter:url(#filter13403-8);enable-background:new"
+       id="path22670-1"
+       cx="4.3389368"
+       cy="4.3389425"
+       r="4.3388977"
+       transform="matrix(0.26458333,0,0,0.26458333,447.84991,199.93532)" />
+    <circle
+       style="display:inline;opacity:1;fill:#000000;stroke-width:0;filter:url(#filter13403-01);enable-background:new"
+       id="path22670-9"
+       cx="4.3389368"
+       cy="4.3389425"
+       r="4.3388977"
+       transform="matrix(0.26458333,0,0,0.26458333,456.0641,203.43458)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke-width:0"
+       id="path23090"
+       sodipodi:sides="3"
+       sodipodi:cx="404.71454"
+       sodipodi:cy="177.79872"
+       sodipodi:r1="6.5381532"
+       sodipodi:r2="3.2690766"
+       sodipodi:arg1="1.0471976"
+       sodipodi:arg2="2.0943951"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 407.98361,183.46093 -9.80722,-5.66221 9.80723,-5.66221 z"
+       inkscape:transform-center-x="-0.16656788"
+       inkscape:transform-center-y="0.25821318"
+       transform="matrix(-0.22038632,0.07898587,-0.06840377,-0.19086016,531.65515,190.72983)" />
+    <rect
+       style="display:inline;opacity:1;fill:#000001;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter13403);enable-background:new"
+       id="rect7652-133948"
+       width="8.6777954"
+       height="8.6761665"
+       x="0"
+       y="0"
+       transform="matrix(0.26458333,0,0,0.26458333,374.4239,218.61298)" />
+    <circle
+       style="display:inline;opacity:1;fill:#000000;stroke-width:0;filter:url(#filter13403-8-5);enable-background:new"
+       id="path22670-1-3"
+       cx="4.3389368"
+       cy="4.3389425"
+       r="4.3388977"
+       transform="matrix(0.26458333,0,0,0.26458333,468.58713,1601.4063)" />
+    <circle
+       style="display:inline;opacity:1;fill:#000000;stroke-width:0;filter:url(#filter13403-8-3);enable-background:new"
+       id="path22670-1-9"
+       cx="4.3389368"
+       cy="4.3389425"
+       r="4.3388977"
+       transform="matrix(0.26458333,0,0,0.26458333,288.1377,1232.5383)" />
+    <circle
+       style="display:inline;opacity:1;fill:#000000;stroke-width:0;filter:url(#filter13403-8-6);enable-background:new"
+       id="path22670-1-0"
+       cx="4.3389368"
+       cy="4.3389425"
+       r="4.3388977"
+       transform="matrix(0.26458333,0,0,0.26458333,541.43251,1394.3667)" />
+    <circle
+       style="display:inline;opacity:1;fill:#000000;stroke-width:0;filter:url(#filter13403-01-9);enable-background:new"
+       id="path22670-9-2"
+       cx="4.3389368"
+       cy="4.3389425"
+       r="4.3388977"
+       transform="matrix(0.26458333,0,0,0.26458333,523.13297,1297.8693)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -38581,7 +38691,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Meridianos"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -41226,140 +41336,1978 @@
     <g
        inkscape:groupmode="layer"
        id="layer20"
-       inkscape:label="Portugal" />
+       inkscape:label="Portugal">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="394.47897"
+         y="1571.9562"
+         id="text23109"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           id="tspan23107"
+           x="394.47897"
+           y="1571.9562"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583">LAGOS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="368.36752"
+         y="1559.192"
+         id="text25107"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           x="368.36752"
+           y="1559.192"
+           style="stroke-width:0.264583"
+           id="tspan23111">Mexiloheira Grande</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="401.48257"
+         y="1550.1824"
+         id="text25110"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           x="401.48257"
+           y="1550.1824"
+           style="stroke-width:0.264583"
+           id="tspan23113">Alvor</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="411.65967"
+         y="1570.7073"
+         id="text25113"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="411.65967"
+           y="1570.7073"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23115">PORTIMÃO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="391.19443"
+         y="1546.694"
+         id="text23119"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           id="tspan23117"
+           x="391.19443"
+           y="1546.694"
+           style="stroke-width:0.264583">Ferragudo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="400.10812"
+         y="1538.8938"
+         id="text25118"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="400.10812"
+           y="1538.8938"
+           style="stroke-width:0.264583"
+           id="tspan23121">Estômbar</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="424.19159"
+         y="1537.598"
+         id="text25121"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="424.19159"
+           y="1537.598"
+           style="stroke-width:0.264583"
+           id="tspan23123">Silves</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="438.29605"
+         y="1542.6958"
+         id="text25124"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="438.29605"
+           y="1542.6958"
+           style="stroke-width:0.264583"
+           id="tspan23125">Poço Barreto</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="420.46851"
+         y="1556.5859"
+         id="text25127"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="420.46851"
+           y="1556.5859"
+           style="stroke-width:0.264583"
+           id="tspan23127">Alcantarilha</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="444.26724"
+         y="1561.9198"
+         id="text25130"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="444.26724"
+           y="1561.9198"
+           style="stroke-width:0.264583"
+           id="tspan23129">Algoz</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="468.89764"
+         y="1562.0907"
+         id="text25133"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="468.89764"
+           y="1562.0907"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23131">TUNES</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="448.271"
+         y="1574.6174"
+         id="text25136"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="448.271"
+           y="1574.6174"
+           style="stroke-width:0.264583"
+           id="tspan23133">Albufeira</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="477.18808"
+         y="1569.4835"
+         id="text25139"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="477.18808"
+           y="1569.4835"
+           style="stroke-width:0.264583"
+           id="tspan23135">Boliqueime</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="501.48788"
+         y="1568.5065"
+         id="text25142"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="501.48788"
+           y="1568.5065"
+           style="stroke-width:0.264583"
+           id="tspan23137">Loulé</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="518.85449"
+         y="1569.6139"
+         id="text25145"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="518.85449"
+           y="1569.6139"
+           style="stroke-width:0.264583"
+           id="tspan23139">Almancil</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.4639px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';letter-spacing:-0.211667px;word-spacing:-0.926042px;stroke-width:0.264583"
+         x="484.39111"
+         y="1589.2856"
+         id="text25148"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="484.39111"
+           y="1589.2856"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.4639px;font-family:Bodoni;-inkscape-font-specification:Bodoni;stroke-width:0.264583"
+           id="tspan23141">FARO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="543.20978"
+         y="1591.1908"
+         id="text25151"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="543.20978"
+           y="1591.1908"
+           style="stroke-width:0.264583"
+           id="tspan23143">Olhão</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="561.6662"
+         y="1586.705"
+         id="text25154"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="561.6662"
+           y="1586.705"
+           style="stroke-width:0.264583"
+           id="tspan23145">Fuseta</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="540.62677"
+         y="1570.9058"
+         id="text25157"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="540.62677"
+           y="1570.9058"
+           style="stroke-width:0.264583"
+           id="tspan23147">Livramento</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="546.93365"
+         y="1572.6136"
+         id="text25160"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="546.93365"
+           y="1572.6136"
+           style="stroke-width:0.264583"
+           id="tspan23149">Luz</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="565.42169"
+         y="1580.9021"
+         id="text25163"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="565.42169"
+           y="1580.9021"
+           style="stroke-width:0.264583"
+           id="tspan23151">Tavira</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="549.13763"
+         y="1564.5276"
+         id="text25166"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="549.13763"
+           y="1564.5276"
+           style="stroke-width:0.264583"
+           id="tspan23153">Conceição</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="581.16895"
+         y="1571.5762"
+         id="text25169"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="581.16895"
+           y="1571.5762"
+           style="stroke-width:0.264583"
+           id="tspan23155">Cacela</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="553.2121"
+         y="1558.048"
+         id="text25172"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="553.2121"
+           y="1558.048"
+           style="stroke-width:0.264583"
+           id="tspan23157">Castro Marim</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="588.70526"
+         y="1565.9473"
+         id="text25175"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="588.70526"
+           y="1565.9473"
+           style="stroke-width:0.264583"
+           id="tspan23159">Monte Gordo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:0px;stroke-width:0.264583"
+         x="521.91949"
+         y="1550.5272"
+         id="text25178"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="521.91949"
+           y="1550.5272"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23161">VILA REAL DE SANTO ANTÓNIO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="445.21985"
+         y="1534.7745"
+         id="text23165"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           id="tspan23163"
+           x="445.21985"
+           y="1534.7745"
+           style="stroke-width:0.264583">Messines</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="459.86646"
+         y="1509.4495"
+         id="text25183"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="459.86646"
+           y="1509.4495"
+           style="stroke-width:0.264583"
+           id="tspan23167">São Marcos</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="407.09448"
+         y="1501.8536"
+         id="text25186"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="407.09448"
+           y="1501.8536"
+           style="stroke-width:0.264583"
+           id="tspan23169">Pereiras</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="394.97827"
+         y="1490.4283"
+         id="text25189"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="394.97827"
+           y="1490.4283"
+           style="stroke-width:0.264583"
+           id="tspan23171">Sabóia</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="413.82239"
+         y="1472.2079"
+         id="text25192"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="413.82239"
+           y="1472.2079"
+           style="stroke-width:0.264583"
+           id="tspan23173">Odemira</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="429.16452"
+         y="1462.7495"
+         id="text25195"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="429.16452"
+           y="1462.7495"
+           style="stroke-width:0.264583"
+           id="tspan23175">Amoreiras</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="453.55197"
+         y="1460.8953"
+         id="text25198"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="453.55197"
+           y="1460.8953"
+           style="stroke-width:0.264583"
+           id="tspan23177">Garvão</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:8.46667px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="429.76105"
+         y="1445.2876"
+         id="text25201"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="429.76105"
+           y="1445.2876"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23179">FUNCHEIRA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="432.87628"
+         y="1434.3054"
+         id="text25204"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="432.87628"
+           y="1434.3054"
+           style="stroke-width:0.264583"
+           id="tspan23181">Montenegro</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="437.21442"
+         y="1424.7104"
+         id="text25207"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="437.21442"
+           y="1424.7104"
+           style="stroke-width:0.264583"
+           id="tspan23183">Torre Vã</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="434.91968"
+         y="1401.3096"
+         id="text25210"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="434.91968"
+           y="1401.3096"
+           style="stroke-width:0.264583"
+           id="tspan23185">Alvalade</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:8.46667px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="460.94739"
+         y="1381.6798"
+         id="text25213"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="460.94739"
+           y="1381.6798"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23187">ERMIDAS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="415.6846"
+         y="1361.5679"
+         id="text25216"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="415.6846"
+           y="1361.5679"
+           style="stroke-width:0.264583"
+           id="tspan23189">Lousal</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="432.78952"
+         y="1342.7028"
+         id="text25219"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="432.78952"
+           y="1342.7028"
+           style="stroke-width:0.264583"
+           id="tspan23191">Azinheira dos Barros</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="393.87823"
+         y="1332.9707"
+         id="text25222"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="393.87823"
+           y="1332.9707"
+           style="stroke-width:0.264583"
+           id="tspan23193">Canal Caveira</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="402.87503"
+         y="1322.5649"
+         id="text25225"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="402.87503"
+           y="1322.5649"
+           style="stroke-width:0.264583"
+           id="tspan23195">Grândola</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="395.21765"
+         y="1298.7394"
+         id="text25228"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="395.21765"
+           y="1298.7394"
+           style="stroke-width:0.264583"
+           id="tspan23197">Alcácer do Sal</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="427.15353"
+         y="1279.1"
+         id="text25231"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="427.15353"
+           y="1279.1"
+           style="stroke-width:0.264583"
+           id="tspan23199">Monte Novo-Palma</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="399.23376"
+         y="1276.7312"
+         id="text25234"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="399.23376"
+           y="1276.7312"
+           style="stroke-width:0.264583"
+           id="tspan23201">Pinheiro</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="413.0022"
+         y="1259.8381"
+         id="text25237"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="413.0022"
+           y="1259.8381"
+           style="stroke-width:0.264583"
+           id="tspan23203">Águas de Moura</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="402.11652"
+         y="1251.5779"
+         id="text25240"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="402.11652"
+           y="1251.5779"
+           style="stroke-width:0.264583"
+           id="tspan23205">Mourisca - Sado</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="357.76358"
+         y="1251.5248"
+         id="text25243"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           x="357.76358"
+           y="1251.5248"
+           style="stroke-width:0.264583"
+           id="tspan23207">Setúbal</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="381.42886"
+         y="1245.8003"
+         id="text25246"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           x="381.42886"
+           y="1245.8003"
+           style="stroke-width:0.264583"
+           id="tspan23209">Palmela</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="382.33481"
+         y="1239.4016"
+         id="text25249"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           x="382.33481"
+           y="1239.4016"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23211">PINHAL NOVO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="375.04236"
+         y="1212.9364"
+         id="text25252"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           x="375.04236"
+           y="1212.9364"
+           style="stroke-width:0.264583"
+           id="tspan23213">Sarilhos</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="368.37354"
+         y="1205.4583"
+         id="text25255"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           x="368.37354"
+           y="1205.4583"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23215">MONTIJO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="361.52603"
+         y="1378.9762"
+         id="text23219"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           id="tspan23217"
+           x="361.52603"
+           y="1378.9762"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583">SINES</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="388.46722"
+         y="1371.6793"
+         id="text25260"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           x="388.46722"
+           y="1371.6793"
+           style="stroke-width:0.264583"
+           id="tspan23221">Ortiga</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="392.51804"
+         y="1387.5496"
+         id="text25263"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="392.51804"
+           y="1387.5496"
+           style="stroke-width:0.264583"
+           id="tspan23223">Santiago do Cacém</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="384.77969"
+         y="1368.5374"
+         id="text25266"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="384.77969"
+           y="1368.5374"
+           style="stroke-width:0.264583"
+           id="tspan23225">São Bartolomeu da Serra</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="433.13708"
+         y="1390.0724"
+         id="text25269"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="433.13708"
+           y="1390.0724"
+           style="stroke-width:0.264583"
+           id="tspan23227">Abela</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="319.97903"
+         y="1223.7583"
+         id="text23231"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           id="tspan23229"
+           x="319.97903"
+           y="1223.7583"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583">BARREIRO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:14.4639px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';letter-spacing:-0.211667px;word-spacing:-0.926042px;stroke-width:0.264583"
+         x="653.11951"
+         y="508.03809"
+         id="text23397"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           id="tspan23395"
+           x="653.11951"
+           y="508.03809"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.4639px;font-family:Bodoni;-inkscape-font-specification:Bodoni;stroke-width:0.264583">BRAGANÇA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="701.25879"
+         y="527.95703"
+         id="text25507"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="701.25879"
+           y="527.95703"
+           style="stroke-width:0.264583"
+           id="tspan23399">Mosca</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="699.99762"
+         y="533.32361"
+         id="text25510"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="699.99762"
+           y="533.32361"
+           style="stroke-width:0.264583"
+           id="tspan23401">Sortes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="716.59302"
+         y="542.81335"
+         id="text25513"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="716.59302"
+           y="542.81335"
+           style="stroke-width:0.264583"
+           id="tspan23403">Rossas</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="713.7832"
+         y="548.58929"
+         id="text25516"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="713.7832"
+           y="548.58929"
+           style="stroke-width:0.264583"
+           id="tspan23405">Salsas</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="709.63678"
+         y="554.01154"
+         id="text25519"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="709.63678"
+           y="554.01154"
+           style="stroke-width:0.264583"
+           id="tspan23407">Sendas</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="687.93188"
+         y="551.92926"
+         id="text25522"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="687.93188"
+           y="551.92926"
+           style="stroke-width:0.264583"
+           id="tspan23409">Azibo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="651.05341"
+         y="556.9964"
+         id="text25525"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="651.05341"
+           y="556.9964"
+           style="stroke-width:0.264583"
+           id="tspan23411">Macedo de Cavaleiros</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="676.45795"
+         y="562.18591"
+         id="text25528"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="676.45795"
+           y="562.18591"
+           style="stroke-width:0.264583"
+           id="tspan23413">Grijó</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="663.28345"
+         y="567.2619"
+         id="text25531"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="663.28345"
+           y="567.2619"
+           style="stroke-width:0.264583"
+           id="tspan23415">Cortiços</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="677.57172"
+         y="578.14453"
+         id="text25534"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="677.57172"
+           y="578.14453"
+           style="stroke-width:0.264583"
+           id="tspan23417">Romeu</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="659.89709"
+         y="584.82703"
+         id="text25537"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="659.89709"
+           y="584.82703"
+           style="stroke-width:0.264583"
+           id="tspan23419">Carvalhais</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="638.96539"
+         y="588.64752"
+         id="text25540"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="638.96539"
+           y="588.64752"
+           style="stroke-width:0.264583"
+           id="tspan23421">Mirandela</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="633.98871"
+         y="594.20654"
+         id="text25543"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="633.98871"
+           y="594.20654"
+           style="stroke-width:0.264583"
+           id="tspan23423">Frechas</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="608.71753"
+         y="594.4295"
+         id="text25546"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="608.71753"
+           y="594.4295"
+           style="stroke-width:0.264583"
+           id="tspan23425">Cachão</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="629.50354"
+         y="600.13763"
+         id="text25549"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="629.50354"
+           y="600.13763"
+           style="stroke-width:0.264583"
+           id="tspan23427">Vilarinho</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="627.17181"
+         y="605.82648"
+         id="text25552"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="627.17181"
+           y="605.82648"
+           style="stroke-width:0.264583"
+           id="tspan23429">Ribeirinha</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="623.62372"
+         y="610.20099"
+         id="text25555"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="623.62372"
+           y="610.20099"
+           style="stroke-width:0.264583"
+           id="tspan23431">Abreiro</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="621.04504"
+         y="615.22504"
+         id="text25558"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="621.04504"
+           y="615.22504"
+           style="stroke-width:0.264583"
+           id="tspan23433">Codeçais</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="619.10107"
+         y="620.66876"
+         id="text25561"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="619.10107"
+           y="620.66876"
+           style="stroke-width:0.264583"
+           id="tspan23435">Brunheda</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="617.66815"
+         y="625.82874"
+         id="text25564"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="617.66815"
+           y="625.82874"
+           style="stroke-width:0.264583"
+           id="tspan23437">São Lourenço</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="616.40631"
+         y="631.50781"
+         id="text25567"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="616.40631"
+           y="631.50781"
+           style="stroke-width:0.264583"
+           id="tspan23439">Amieiro</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="616.48596"
+         y="637.35657"
+         id="text25570"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="616.48596"
+           y="637.35657"
+           style="stroke-width:0.264583"
+           id="tspan23441">Tralhariz</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="617.68829"
+         y="644.25739"
+         id="text25573"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="617.68829"
+           y="644.25739"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23443">TUA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:8.46667px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="301.67163"
+         y="1234.6366"
+         id="text23235"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           id="tspan23233"
+           x="301.67163"
+           y="1234.6366"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583">SEIXAL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="319.36707"
+         y="1242.1887"
+         id="text25276"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           x="319.36707"
+           y="1242.1887"
+           style="stroke-width:0.264583"
+           id="tspan23237">Azinheira</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="345.80652"
+         y="1245.0371"
+         id="text25279"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           x="345.80652"
+           y="1245.0371"
+           style="stroke-width:0.264583"
+           id="tspan23239">Terrapleno</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="853.38556"
+         y="929.41443"
+         id="text25282"
+         transform="rotate(30.561838)"><tspan
+           sodipodi:role="line"
+           x="853.38556"
+           y="929.41443"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23241">LAVRADIO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="382.24179"
+         y="1224.4645"
+         id="text23245"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           id="tspan23243"
+           x="382.24179"
+           y="1224.4645"
+           style="stroke-width:0.264583">Valdera</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="392.74698"
+         y="1220.6122"
+         id="text25287"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           x="392.74698"
+           y="1220.6122"
+           style="stroke-width:0.264583"
+           id="tspan23247">Poceirão</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="404.13724"
+         y="1220.7212"
+         id="text25290"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="404.13724"
+           y="1220.7212"
+           style="stroke-width:0.264583"
+           id="tspan23249">Fonte</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="423.01437"
+         y="1234.3745"
+         id="text25293"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="423.01437"
+           y="1234.3745"
+           style="stroke-width:0.264583"
+           id="tspan23251">Pegões</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="420.18164"
+         y="1218.0695"
+         id="text25296"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="420.18164"
+           y="1218.0695"
+           style="stroke-width:0.264583"
+           id="tspan23253">Bombel</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:0px;stroke-width:0.264583"
+         x="448.91296"
+         y="1218.3047"
+         id="text25299"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="448.91296"
+           y="1218.3047"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23255">VENDAS NOVAS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="461.63666"
+         y="1224.0031"
+         id="text25302"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="461.63666"
+           y="1224.0031"
+           style="stroke-width:0.264583"
+           id="tspan23257">Cabrela</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:0px;stroke-width:0.264583"
+         x="423.13358"
+         y="1245.2113"
+         id="text25305"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="423.13358"
+           y="1245.2113"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23259">TORRE DA GADANHA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="484.87772"
+         y="1234.7313"
+         id="text25311"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="484.87772"
+           y="1234.7313"
+           style="stroke-width:0.264583"
+           id="tspan23263">Paião</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:0px;stroke-width:0.264583"
+         x="487.79227"
+         y="1226.3242"
+         id="text25314"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="487.79227"
+           y="1226.3242"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23265">MONTEMOR-O-NOVO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="464.27087"
+         y="1251.1136"
+         id="text25320"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="464.27087"
+           y="1251.1136"
+           style="stroke-width:0.264583"
+           id="tspan23269">Escoural</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:0px;stroke-width:0.264583"
+         x="451.64835"
+         y="1259.9594"
+         id="text25323"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="451.64835"
+           y="1259.9594"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23271">CASA BRANCA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="469.69962"
+         y="1276.579"
+         id="text25326"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="469.69962"
+           y="1276.579"
+           style="stroke-width:0.264583"
+           id="tspan23273">Alcáçovas</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="483.04837"
+         y="1289.6552"
+         id="text25329"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="483.04837"
+           y="1289.6552"
+           style="stroke-width:0.264583"
+           id="tspan23275">Viana</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="463.0564"
+         y="1305.8628"
+         id="text25332"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="463.0564"
+           y="1305.8628"
+           style="stroke-width:0.264583"
+           id="tspan23277">Vila Nova da Baronia</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="529.96155"
+         y="1311.0339"
+         id="text25335"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="529.96155"
+           y="1311.0339"
+           style="stroke-width:0.264583"
+           id="tspan23279">Alvito</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="545.46417"
+         y="1331.7322"
+         id="text25338"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="545.46417"
+           y="1331.7322"
+           style="stroke-width:0.264583"
+           id="tspan23281">Cuba</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="550.66229"
+         y="1350.5601"
+         id="text25341"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="550.66229"
+           y="1350.5601"
+           style="stroke-width:0.264583"
+           id="tspan23283">São Matias</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:14.4639px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';letter-spacing:-0.211667px;word-spacing:-0.926042px;stroke-width:0.264583"
+         x="507.2951"
+         y="1364.1699"
+         id="text25344"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="507.2951"
+           y="1364.1699"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.4639px;font-family:Bodoni;-inkscape-font-specification:Bodoni;stroke-width:0.264583"
+           id="tspan23285">BEJA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="557.82941"
+         y="1371.7352"
+         id="text25350"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="557.82941"
+           y="1371.7352"
+           style="stroke-width:0.264583"
+           id="tspan23289">Baleizão</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="554.01617"
+         y="1394.5642"
+         id="text25353"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="554.01617"
+           y="1394.5642"
+           style="stroke-width:0.264583"
+           id="tspan23291">Quintos</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="584.1546"
+         y="1409.9202"
+         id="text25356"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="584.1546"
+           y="1409.9202"
+           style="stroke-width:0.264583"
+           id="tspan23293">Serpa-Brinches</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="588.52795"
+         y="1386.6104"
+         id="text25359"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="588.52795"
+           y="1386.6104"
+           style="stroke-width:0.264583"
+           id="tspan23295">Pias</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="610.04498"
+         y="1370.9863"
+         id="text25362"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="610.04498"
+           y="1370.9863"
+           style="stroke-width:0.264583"
+           id="tspan23297">Machados</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:8.46667px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="579.41724"
+         y="1345.3062"
+         id="text25365"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="579.41724"
+           y="1345.3062"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23299">MOURA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="519.81"
+         y="1370.7007"
+         id="text25371"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="519.81"
+           y="1370.7007"
+           style="stroke-width:0.264583"
+           id="tspan23303">Represas</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="475.12701"
+         y="1390.0375"
+         id="text25374"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="475.12701"
+           y="1390.0375"
+           style="stroke-width:0.264583"
+           id="tspan23305">Santa Vitória-Ervidel</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="523.69421"
+         y="1414.5459"
+         id="text25377"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="523.69421"
+           y="1414.5459"
+           style="stroke-width:0.264583"
+           id="tspan23307">Figueirinha</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:0px;stroke-width:0.264583"
+         x="463.61868"
+         y="1404.4625"
+         id="text25380"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="463.61868"
+           y="1404.4625"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23309">ALJUSTREL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:0px;stroke-width:0.264583"
+         x="516.09906"
+         y="1432.9868"
+         id="text25383"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="516.09906"
+           y="1432.9868"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23311">CASTRO VERDE-ALMODÔVAR</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="484.50037"
+         y="1436.4879"
+         id="text25386"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="484.50037"
+           y="1436.4879"
+           style="stroke-width:0.264583"
+           id="tspan23313">Casével</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="492.01529"
+         y="1458.7157"
+         id="text25389"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="492.01529"
+           y="1458.7157"
+           style="stroke-width:0.264583"
+           id="tspan23315">Ourique</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="474.29065"
+         y="1428.9359"
+         id="text25392"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="474.29065"
+           y="1428.9359"
+           style="stroke-width:0.264583"
+           id="tspan23317">Panóias</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="494.32339"
+         y="1248.6558"
+         id="text23321"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           id="tspan23319"
+           x="494.32339"
+           y="1248.6558"
+           style="stroke-width:0.264583">Tojal</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="522.59979"
+         y="1241.4517"
+         id="text25397"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="522.59979"
+           y="1241.4517"
+           style="text-align:end;text-anchor:end;stroke-width:0.264583"
+           id="tspan23323">Monte das</tspan><tspan
+           sodipodi:role="line"
+           x="522.59979"
+           y="1246.7433"
+           style="text-align:end;text-anchor:end;stroke-width:0.264583"
+           id="tspan10954">Flores</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.4639px;line-height:0.85;font-family:Bodoni;-inkscape-font-specification:Bodoni;letter-spacing:-0.211667px;word-spacing:-0.926042px;stroke-width:0.264583"
+         x="544.77869"
+         y="1244.823"
+         id="text25400"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="544.77869"
+           y="1244.823"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.4639px;font-family:Bodoni;-inkscape-font-specification:Bodoni;stroke-width:0.264583"
+           id="tspan23325">ÉVORA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="508.9603"
+         y="1233.9156"
+         id="text25406"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="508.9603"
+           y="1233.9156"
+           style="stroke-width:0.264583"
+           id="tspan23329">Leões</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="522.94183"
+         y="1214.7975"
+         id="text25409"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="522.94183"
+           y="1214.7975"
+           style="stroke-width:0.264583"
+           id="tspan23331">Louredo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="473.30002"
+         y="1209.8645"
+         id="text25412"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="473.30002"
+           y="1209.8645"
+           style="stroke-width:0.264583"
+           id="tspan23333">Senhora da Graça</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="486.24899"
+         y="1201.0372"
+         id="text25415"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="486.24899"
+           y="1201.0372"
+           style="stroke-width:0.264583"
+           id="tspan23335">Arraiolos</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="513.01093"
+         y="1191.75"
+         id="text25418"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="513.01093"
+           y="1191.75"
+           style="stroke-width:0.264583"
+           id="tspan23337">Vale de Paio</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="508.53207"
+         y="1182.3241"
+         id="text25421"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="508.53207"
+           y="1182.3241"
+           style="stroke-width:0.264583"
+           id="tspan23339">Pavia</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="501.79834"
+         y="1174.6189"
+         id="text25424"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="501.79834"
+           y="1174.6189"
+           style="stroke-width:0.264583"
+           id="tspan23341">Cabeção</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:0px;stroke-width:0.264583"
+         x="467.54156"
+         y="1163.7461"
+         id="text25427"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="467.54156"
+           y="1163.7461"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23343">MORA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="567.29089"
+         y="1254.8281"
+         id="text25436"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="567.29089"
+           y="1254.8281"
+           style="stroke-width:0.264583"
+           id="tspan23349">Machede</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="572.27814"
+         y="1267.9457"
+         id="text25439"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="572.27814"
+           y="1267.9457"
+           style="stroke-width:0.264583"
+           id="tspan23351">Montoito</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="586.23816"
+         y="1274.5781"
+         id="text25442"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="586.23816"
+           y="1274.5781"
+           style="stroke-width:0.264583"
+           id="tspan23353">Caridade</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.75;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:0px;stroke-width:0.264583"
+         x="594.19263"
+         y="1293.2708"
+         id="text25445"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="594.19263"
+           y="1293.2708"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan23355">REGUENGOS DE</tspan><tspan
+           sodipodi:role="line"
+           x="594.19263"
+           y="1299.6207"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan10948">MONSARAZ</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="550.00189"
+         y="1229.0311"
+         id="text25451"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="550.00189"
+           y="1229.0311"
+           style="stroke-width:0.264583"
+           id="tspan23359">Sousa da Sé</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="556.94531"
+         y="1217.8145"
+         id="text25454"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="556.94531"
+           y="1217.8145"
+           style="stroke-width:0.264583"
+           id="tspan23361">Azaruja</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="522.50629"
+         y="1203.3378"
+         id="text25457"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="522.50629"
+           y="1203.3378"
+           style="stroke-width:0.264583"
+           id="tspan23363">Vale do Pereiro</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="547.01666"
+         y="1193.2059"
+         id="text25460"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="547.01666"
+           y="1193.2059"
+           style="stroke-width:0.264583"
+           id="tspan23365">Vimieiro</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="572.15503"
+         y="1198.9673"
+         id="text25463"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="572.15503"
+           y="1198.9673"
+           style="stroke-width:0.264583"
+           id="tspan23367">Evora-Monte</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="580.02911"
+         y="1189.641"
+         id="text25466"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="580.02911"
+           y="1189.641"
+           style="stroke-width:0.264583"
+           id="tspan23369">Ameixial</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="593.59381"
+         y="1173.5771"
+         id="text25469"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="593.59381"
+           y="1173.5771"
+           style="stroke-width:0.264583"
+           id="tspan23371">Estremoz</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="583.47174"
+         y="1160.6033"
+         id="text25475"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="583.47174"
+           y="1160.6033"
+           style="stroke-width:0.264583"
+           id="tspan23375">Silveirona</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="580.34869"
+         y="1148.012"
+         id="text25478"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="580.34869"
+           y="1148.012"
+           style="stroke-width:0.264583"
+           id="tspan23377">Sousel</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="580.31146"
+         y="1138.2253"
+         id="text25481"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="580.31146"
+           y="1138.2253"
+           style="stroke-width:0.264583"
+           id="tspan23379">Santo Amaro</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="552.2724"
+         y="1123.9668"
+         id="text25484"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="552.2724"
+           y="1123.9668"
+           style="stroke-width:0.264583"
+           id="tspan23381">Fronteira</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="550.99579"
+         y="1107.2487"
+         id="text25487"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="550.99579"
+           y="1107.2487"
+           style="stroke-width:0.264583"
+           id="tspan23383">Cabeço de Vide</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="592.49805"
+         y="1108.7695"
+         id="text25490"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="592.49805"
+           y="1108.7695"
+           style="stroke-width:0.264583"
+           id="tspan23385">Ribeiro de Freixo (APD)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="605.42163"
+         y="1183.1899"
+         id="text25496"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="605.42163"
+           y="1183.1899"
+           style="stroke-width:0.264583"
+           id="tspan23389">Arcos</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.85;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="609.06891"
+         y="1190.1334"
+         id="text25499"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="609.06891"
+           y="1190.1334"
+           style="stroke-width:0.264583"
+           id="tspan23391">Borba</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.85;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:0px;stroke-width:0.264583"
+         x="596.43597"
+         y="1215.485"
+         id="text25502"
+         transform="rotate(2.68)"><tspan
+           sodipodi:role="line"
+           x="596.43597"
+           y="1215.485"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan23393">VILA VIÇOSA</tspan></text>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer31"
-       inkscape:label="Zaragoza" />
+       inkscape:label="Zaragoza"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer38"
-       inkscape:label="Zamora" />
+       inkscape:label="Zamora"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer40"
-       inkscape:label="Valladolid" />
+       inkscape:label="Valladolid"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer22"
-       inkscape:label="Valencia" />
+       inkscape:label="Valencia"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer34"
-       inkscape:label="Toledo" />
+       inkscape:label="Toledo"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer32"
-       inkscape:label="Teruel" />
+       inkscape:label="Teruel"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer27"
-       inkscape:label="Tarragona" />
+       inkscape:label="Tarragona"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer41"
-       inkscape:label="Soria" />
+       inkscape:label="Soria"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer42"
-       inkscape:label="Sevilla" />
+       inkscape:label="Sevilla"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer43"
-       inkscape:label="Segovia" />
+       inkscape:label="Segovia"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer62"
-       inkscape:label="Santander" />
+       inkscape:label="Santander"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer44"
-       inkscape:label="Salamanca" />
+       inkscape:label="Salamanca"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer17"
-       inkscape:label="Pontevedra" />
+       inkscape:label="Pontevedra"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer46"
-       inkscape:label="Pamplona" />
+       inkscape:label="Pamplona"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer45"
-       inkscape:label="Palencia" />
+       inkscape:label="Palencia"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer18"
-       inkscape:label="Oviedo" />
+       inkscape:label="Oviedo"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer39"
-       inkscape:label="PaisVasco" />
+       inkscape:label="PaisVasco"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer16"
-       inkscape:label="Orense" />
+       inkscape:label="Orense"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer25"
-       inkscape:label="Murcia" />
+       inkscape:label="Murcia"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer47"
-       inkscape:label="Malaga" />
+       inkscape:label="Malaga"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer48"
-       inkscape:label="Madrid" />
+       inkscape:label="Madrid"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer15"
-       inkscape:label="Lugo" />
+       inkscape:label="Lugo"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer49"
-       inkscape:label="Logrono" />
+       inkscape:label="Logrono"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer28"
-       inkscape:label="Lleida" />
+       inkscape:label="Lleida"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer50"
-       inkscape:label="Leon" />
-    <g
-       inkscape:groupmode="layer"
-       id="layer14"
-       inkscape:label="LaCoruna"
-       style="display:inline" />
+       inkscape:label="Leon"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer51"
-       inkscape:label="Jaen" />
+       inkscape:label="Jaen"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer30"
-       inkscape:label="Huesca" />
+       inkscape:label="Huesca"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer52"
-       inkscape:label="Huelva" />
+       inkscape:label="Huelva"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer37"
-       inkscape:label="Guadalajara" />
+       inkscape:label="Guadalajara"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer54"
-       inkscape:label="Granada" />
+       inkscape:label="Granada"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer29"
-       inkscape:label="Girona" />
+       inkscape:label="Girona"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer33"
-       inkscape:label="Cuenca">
+       inkscape:label="Cuenca"
+       sodipodi:insensitive="true">
       <text
          xml:space="preserve"
          style="font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
@@ -41625,56 +43573,616 @@
     </g>
     <g
        inkscape:groupmode="layer"
+       id="layer14"
+       inkscape:label="Coruna"
+       style="display:inline"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:-0.926042px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="453.63785"
+         y="132.42981"
+         id="text11639"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="453.63785"
+           y="132.42981"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan951">FERROL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1;font-family:sans-serif;word-spacing:-0.926042px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="476.14749"
+         y="119.55145"
+         id="text11642"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="476.14749"
+           y="119.55145"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:7.05556px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Condensed';stroke-width:0.264583"
+           id="tspan953">Neda</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1;font-family:sans-serif;word-spacing:-0.926042px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="494.95273"
+         y="119.89429"
+         id="text11645"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="494.95273"
+           y="119.89429"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:7.05556px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Condensed';stroke-width:0.264583"
+           id="tspan955">Perlío</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1;font-family:sans-serif;word-spacing:-0.926042px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="504.44107"
+         y="126.49455"
+         id="text11648"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="504.44107"
+           y="126.49455"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:7.05556px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Condensed';stroke-width:0.264583"
+           id="tspan957">Barallobre</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1;font-family:sans-serif;word-spacing:-0.926042px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="504.93134"
+         y="135.74231"
+         id="text11651"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="504.93134"
+           y="135.74231"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:7.05556px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Condensed';stroke-width:0.264583"
+           id="tspan959">Franza</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1;font-family:sans-serif;word-spacing:-0.926042px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="502.48004"
+         y="142.73209"
+         id="text11654"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="502.48004"
+           y="142.73209"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:7.05556px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Condensed';stroke-width:0.264583"
+           id="tspan961">Cabanas-Areal</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1;font-family:sans-serif;word-spacing:-0.926042px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="520.11865"
+         y="148.7375"
+         id="text11657"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="520.11865"
+           y="148.7375"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:7.05556px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Condensed';stroke-width:0.264583"
+           id="tspan963">Pontedeume</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1;font-family:sans-serif;word-spacing:-0.926042px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="520.55664"
+         y="158.34302"
+         id="text11660"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="520.55664"
+           y="158.34302"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:7.05556px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Condensed';stroke-width:0.264583"
+           id="tspan965">Perbes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1;font-family:sans-serif;word-spacing:-0.926042px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="514.34149"
+         y="166.66733"
+         id="text11663"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="514.34149"
+           y="166.66733"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:7.05556px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Condensed';stroke-width:0.264583"
+           id="tspan967">Miño-Castro</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1;font-family:sans-serif;word-spacing:-0.926042px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="498.27225"
+         y="172.4537"
+         id="text11666"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="498.27225"
+           y="172.4537"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:7.05556px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Condensed';stroke-width:0.264583"
+           id="tspan969">Paderne</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1;font-family:sans-serif;word-spacing:-0.926042px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="489.45602"
+         y="178.3013"
+         id="text11669"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="489.45602"
+           y="178.3013"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:7.05556px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT Condensed';stroke-width:0.264583"
+           id="tspan971">Betanzos-Pueblo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:-0.926042px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="489.2659"
+         y="185.50758"
+         id="text11672"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="489.2659"
+           y="185.50758"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan973">BETANZOS-INFESTA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.75;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="394.24258"
+         y="157.76843"
+         id="text17410"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           id="tspan17408"
+           x="394.24258"
+           y="157.76843"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583">SAN CRISTÓBAL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="417.82571"
+         y="184.81866"
+         id="text18922"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="417.82571"
+           y="184.81866"
+           style="stroke-width:0.264583"
+           id="tspan17412">Uxes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="438.07434"
+         y="194.38084"
+         id="text18925"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="438.07434"
+           y="194.38084"
+           style="stroke-width:0.264583"
+           id="tspan17414">Bregua</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="391.75363"
+         y="196.37708"
+         id="text18928"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           x="391.75363"
+           y="196.37708"
+           style="stroke-width:0.264583"
+           id="tspan17416">Carballo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.75;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="330.38696"
+         y="249.58232"
+         id="text18931"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           x="330.38696"
+           y="249.58232"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan17418">CORCUBIÓN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="410.31607"
+         y="211.24329"
+         id="text18934"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="410.31607"
+           y="211.24329"
+           style="stroke-width:0.264583"
+           id="tspan17420">Meirama</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="411.72183"
+         y="219.27802"
+         id="text18937"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="411.72183"
+           y="219.27802"
+           style="stroke-width:0.264583"
+           id="tspan17422">Cerceda</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="392.75391"
+         y="225.81187"
+         id="text18940"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="392.75391"
+           y="225.81187"
+           style="stroke-width:0.264583"
+           id="tspan17424">Queixas-Londoño</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="438.1066"
+         y="236.19089"
+         id="text18943"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="438.1066"
+           y="236.19089"
+           style="stroke-width:0.264583"
+           id="tspan17426">Órdes-A Pontraga</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="439.04202"
+         y="242.63322"
+         id="text18946"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="439.04202"
+           y="242.63322"
+           style="stroke-width:0.264583"
+           id="tspan17428">Garga-Trasmonte</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="438.91089"
+         y="249.08121"
+         id="text18949"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="438.91089"
+           y="249.08121"
+           style="stroke-width:0.264583"
+           id="tspan17430">Oroso-Vilacide</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="435.11395"
+         y="254.95894"
+         id="text18952"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="435.11395"
+           y="254.95894"
+           style="stroke-width:0.264583"
+           id="tspan17432">Verdía</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="410.60522"
+         y="258.36496"
+         id="text18955"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="410.60522"
+           y="258.36496"
+           style="stroke-width:0.264583"
+           id="tspan17434">Sionlla</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0.75;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:0px;stroke-width:0.264583"
+         x="434.79495"
+         y="266.00433"
+         id="text18958"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="434.79495"
+           y="266.00433"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan17436">SANTIAGO DE COMPOSTELA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="411.66785"
+         y="273.9769"
+         id="text18961"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="411.66785"
+           y="273.9769"
+           style="stroke-width:0.264583"
+           id="tspan17438">Casal</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="404.71976"
+         y="280.90936"
+         id="text18964"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="404.71976"
+           y="280.90936"
+           style="stroke-width:0.264583"
+           id="tspan17440">Osebe</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="417.04483"
+         y="294.32065"
+         id="text18967"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="417.04483"
+           y="294.32065"
+           style="stroke-width:0.264583"
+           id="tspan17442">Escravitude</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:0.75;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="394.94415"
+         y="292.38525"
+         id="text18970"
+         transform="rotate(3.9)"><tspan
+           sodipodi:role="line"
+           x="394.94415"
+           y="292.38525"
+           style="stroke-width:0.264583"
+           id="tspan17444">Padrón</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="428.03192"
+         y="287.33014"
+         id="text20854"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           id="tspan20852"
+           x="428.03192"
+           y="287.33014"
+           style="stroke-width:0.264583">Susana</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="455.90536"
+         y="284.87512"
+         id="text22516"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="455.90536"
+           y="284.87512"
+           style="stroke-width:0.264583"
+           id="tspan20856">Vedra-Ribadulla</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.4639px;line-height:1;font-family:Bodoni;-inkscape-font-specification:Bodoni;letter-spacing:-0.211667px;word-spacing:-0.926042px;stroke-width:0.264583"
+         x="393.23816"
+         y="143.2321"
+         id="text19155"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           id="tspan19153"
+           x="393.23816"
+           y="143.2321"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.4639px;font-family:Bodoni;-inkscape-font-specification:Bodoni;stroke-width:0.264583">A CORUÑA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="461.50165"
+         y="160.87146"
+         id="text20721"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="461.50165"
+           y="160.87146"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Accidental Presidency';-inkscape-font-specification:'Accidental Presidency';stroke-width:0.264583"
+           id="tspan19157">PUERTO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="412.95468"
+         y="165.3125"
+         id="text20724"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="412.95468"
+           y="165.3125"
+           style="stroke-width:0.264583"
+           id="tspan19159">La Frigorífica</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="415.57291"
+         y="171.41783"
+         id="text20727"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="415.57291"
+           y="171.41783"
+           style="stroke-width:0.264583"
+           id="tspan19161">Ponte Pasaxe</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="410.84589"
+         y="176.60117"
+         id="text20730"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="410.84589"
+           y="176.60117"
+           style="stroke-width:0.264583"
+           id="tspan19163">O Burgo-Santiago</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="333.46133"
+         y="354.63513"
+         id="text20733"
+         transform="rotate(-22.780624)"><tspan
+           sodipodi:role="line"
+           x="333.46133"
+           y="354.63513"
+           style="stroke-width:0.264583"
+           id="tspan19165">Cambre</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="337.44608"
+         y="360.29416"
+         id="text20736"
+         transform="rotate(-22.780624)"><tspan
+           sodipodi:role="line"
+           x="337.44608"
+           y="360.29416"
+           style="stroke-width:0.264583"
+           id="tspan19167">Cecebre</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="343.55957"
+         y="365.72321"
+         id="text20739"
+         transform="rotate(-22.780624)"><tspan
+           sodipodi:role="line"
+           x="343.55957"
+           y="365.72321"
+           style="stroke-width:0.264583"
+           id="tspan19169">Guísamo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="460.66153"
+         y="196.41951"
+         id="text20742"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="460.66153"
+           y="196.41951"
+           style="stroke-width:0.264583"
+           id="tspan19171">Oza dos Ríos</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="496.61322"
+         y="194.65405"
+         id="text20745"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="496.61322"
+           y="194.65405"
+           style="stroke-width:0.264583"
+           id="tspan19173">Cesuras</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="475.96536"
+         y="209.20003"
+         id="text20748"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="475.96536"
+           y="209.20003"
+           style="stroke-width:0.264583"
+           id="tspan19175">Curtis</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="500.76172"
+         y="213.5623"
+         id="text20751"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="500.76172"
+           y="213.5623"
+           style="stroke-width:0.264583"
+           id="tspan19177">Teixeiro</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:7.05556px;line-height:1;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Condensed';word-spacing:-0.926042px;stroke-width:0.264583"
+         x="519.0379"
+         y="193.944"
+         id="text20754"
+         transform="rotate(3.37)"><tspan
+           sodipodi:role="line"
+           x="519.0379"
+           y="193.944"
+           style="stroke-width:0.264583"
+           id="tspan19179">Aranga</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer55"
-       inkscape:label="Cordoba" />
+       inkscape:label="Cordoba"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer35"
-       inkscape:label="CiudadReal" />
+       inkscape:label="CiudadReal"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer23"
-       inkscape:label="Castellon" />
+       inkscape:label="Castellon"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer61"
-       inkscape:label="Cadiz" />
+       inkscape:label="Cadiz"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer56"
-       inkscape:label="Caceres" />
+       inkscape:label="Caceres"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer57"
-       inkscape:label="Burgos" />
+       inkscape:label="Burgos"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer26"
-       inkscape:label="Barcelona" />
+       inkscape:label="Barcelona"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer21"
-       inkscape:label="BalearesYAfrica" />
+       inkscape:label="BalearesYAfrica"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer60"
-       inkscape:label="Badajoz" />
+       inkscape:label="Badajoz"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer59"
-       inkscape:label="Avila" />
+       inkscape:label="Avila"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer58"
-       inkscape:label="Almeria" />
+       inkscape:label="Almeria"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer24"
-       inkscape:label="Alicante" />
+       inkscape:label="Alicante"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer36"
-       inkscape:label="Albacete" />
+       inkscape:label="Albacete"
+       sodipodi:insensitive="true" />
   </g>
   <g
      style="display:none;opacity:1"
