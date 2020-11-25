@@ -1,177 +1,148 @@
+Sabugal
+Benespera
+Belmonte
+Caria
+Covilhã
+Tortosendo
+Fundão
+Alcaide
+Fatela-Penamacor
+Vale de Prazeres
+Alpedrinha
+Castelo Novo
+Lardosa
+Alcains
+Castelo Branco
+Sarnadas
+Ródão
+Fratel
+Barca da Amieira
+Belver
+Alvega-Ortiga
+Mouriscas APD
+Alferrarede
+Abrantes
+Tramagal
+Praia do Ribatejo
+Barquinha
+Entroncamento
+
+Luso-Buçaco
+Mortágua
+Santa Comba Dão
+Carregal do Sal
+Oliveirinha-Cabanas
+Canas-Felgueira
+Nelas
+Mangualde
+Gouveia
+Fornos de Algodres
+Celorico da Beira
+Baraçal
+Vila Franca das Naves
+Pinhel
+Sobral
+Guarda
+Cerdeira
+Noémi
+Freineda
+Vilar Formoso
+
+Pampilhosa
+Cantanhede
+Limede-Cadima APD
+Arazede
+Montemór
+Maiorca
+Figueira da Foz
 
 
+Bemposta
+Ponte de Sor
+TORRE DAS VARGENS
+->
+Cunheira
+Vale do Peso
+Castelo de Vide
+MARVÃO
+<-
+Chança
+Mata
+Crato
+PORTALEGRE
+Assumar
+Santa Eulália
+ELVAS
 
-Monção
-Friestas
-Verdoejo
-VALENÇA DO MINHO
-São Pedro da Torre
-Carvalha
-Vila Nova de Cerveira
-Gondarém
-Lanhelas
-Seixas
-Caminhas
-Moledo do Minho
-Âncora
-Afife
-Montedor
-Areosa
-VIANA DO CASTELO
-Darque
-Alvarães
-Barroselas
-Durrães APD
-Tamel
-Carapeços
-Barcelos
-Midões
-NINE
-Arentim
-Tadim
-Aveleda
-BRAGA
-FAMALICÃO
-TROFA
-São Romão
-EMERESINDE
-CAMPANHÃ
-PORTO
-
-Vila Nova de Gaia
-Valadares
-Granja
-ESPINHO
-Esmoriz
-Ovar
-Avanca
-Estarreja
-AVEIRO
-Quintãs
-Oliveira do Bairro
-Mogofores
-Aguas da Curia APD
-Mealhada
-PAMPILHOSA
-Souselas
-COIMBRA
-Coimbra-Cidade
-Ceira
-Miranda do Corvo
-LOUSÃ
-SERPINS
-Taveiro
-Formoselha
-ALFARELOS
-Vila Nova de Anços APD
-Soure
-Pombal
-Vermoil
-Albergaria dos Doze
-Caxarias
-Chão de Maçãs
-Paialvo
-LAMAROSA
-Santa Cita
-Tomar
-ENTRONCAMENTO
-Torres Novas
-Mato Miranda
-Vale de Figueira
-SANTARÉM
-Vale de Santarém
-Santana-Cartaxo
 SETIL
-Reguengo
-Azambuja
-Carregado
-Vila Franca de Xira
-Alhandra
-Alverca
-Póvoa
-Sacavém
-Olivais
-Braço de Prata
-LISBOA
+Muge
+Marinhais
+Agolada
+Coruche
+Quinta Grande
+São Torcato APD
+Lavre
+Canha
 
-DUAS IGREJAS-MIRANDA
-Sendim
-Urrós
-Variz
-Mogadouro
-Vilar de Rei
-Bruçó
-Lagoaça
-Freixo de Espada à Cinta
-Carviçais
-Felgar
-Larinho
-Moncorvo
-POCINHO
+CASCAIS
+Estoril
+Oeiras
+Paço de Arcos
 
-CHAVES
-Tâmega
-Vilela do Tâmega
-Paranheiras
-Vidago
-Sálus
-Loivos
-Sabroso
-Pedras Salgadas
-Vila Pouca de Aguiar
-Zimão
-Samardã
-Fortunho
-Abambres
-VILA REAL
-Avellêdas APD
-Carrazedo
-Povoação
-Alvações
-Tanha
-RÉGUA
+Queluz
+CACÉM
+Mercês
+SINTRA
 
-CELORICO DE BASTO
-Chapa
-Amarante
-Vila Caiz
-LIVRAÇÃO
+Fontela
+Lares
+Amieira
+Banhos de Amieira APD
+Telhada
+Louriçal
+Guia
+Monte Redondo
+Monte Real
+LEIRIA
+Marinha Grande
+MARTIGANÇA
+Batalha
+PORTO DE MÓS
+Valado
+Cela
+São Martinho do Porto
+Bouro
+Caldas da Rainha
+Óbidos
+São Mamede
+Bombarral
+Outeiro
+Ramalhal
+Torres Vedras
+Runa
+Dois Portos
+Pero Negro
+Malveira
+Mafra
+Sabugo
 
-BARCA D'ALVA
-Almendra
-Castelo Melhor
-Côa
-POCINHO
-Freixo de Numão
-Vesúvio
-Vargelas
-Ferradosa
-Alegria
-São Mamede do Tua
-Castedo
-Cotas
-Pinhao
-Chanceleiros APD
-Ferrão
-Gouvinhas
-Covelinhas
-Caldas de Moledo
-Barqueiros
-Porto Rei
-Ermida
-Aregos
-Mosteirô
-Pala
-Juncal
-Marco de Canaveses
-Vila Meã
-Caíde
-Meindedo APD
-Penafiel
-Paredes
-Cête
-Recarei
-Valongo
+
+Treixedo
+Tonda
+Tondela
+Sabugosa
+Parada de Gonta
+Farminhão
+Torredeita
+Figueiró
+VISEU
+Bodiosa
+São Pedro do Sul
+Termas de São Pedro do Sul
+Vouzela
+Oliveira de Frades
+SERNADA DO VOUGA
+
 
 
 
